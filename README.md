@@ -1,13 +1,14 @@
 # TallyLax App
 
-Track lacrosse stats by game and player, with CSV export, role tracking, and summaries.
+Track lacrosse stats by player, game, and season. Built with React.
 
-## Scripts
+## Run
 
-- `npm install` – install dependencies
-- `npm start` – run locally
-- `npm run build` – build for production
+```bash
+npm install
+npm start
+```
 
 ## Deploy
 
-Deploy to Netlify using `netlify.toml` or drag & drop the `/build` folder after running `npm run build`.
+Run `npm run build` then deploy `/build` to Netlify or GitHub Pages.
