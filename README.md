@@ -1,14 +1,14 @@
 # TallyLax App
 
-Track lacrosse stats by player, game, and season. Built with React.
+Fully functional lacrosse stats tracker app.
 
-## Run
+## Setup
 
-```bash
+```
 npm install
 npm start
 ```
 
 ## Deploy
 
-Run `npm run build` then deploy `/build` to Netlify or GitHub Pages.
+Run `npm run build` and deploy the `build` directory to Netlify or GitHub Pages.
